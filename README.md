@@ -93,8 +93,8 @@ The two-stage GLM provides the best balance between performance, stability, and 
 ---
 
 ## Project structure
-- `notebook.ipynb` — full analysis, modeling, and interpretation  
-- `README.md` — project overview and conclusions  
+- `notebook.ipynb`: full analysis, modeling, and interpretation  
+- `README.md`: project overview and conclusions  
 
 ---
 
