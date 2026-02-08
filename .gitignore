@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+.venv/*
+
+# Kaggle cache
+.kagglehub_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
